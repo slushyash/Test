@@ -9,5 +9,7 @@ package javaapplication2;
  * @author yash
  */
 public class NewClass {
-    
+    public NewClass() {
+        
+    }
 }
